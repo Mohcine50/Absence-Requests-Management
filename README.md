@@ -1,5 +1,9 @@
 # Absence Requests Management
 
+
+![absences](https://github.com/user-attachments/assets/0eed62ae-b090-4ad7-b459-fe088f5c9b55)
+
+
 The Absence Requests Management project is constructed using Spring Boot and React.js.
 
 This project is designed to provide a practical application of the fundamental concepts of Spring Boot for backend development.
